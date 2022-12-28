@@ -1,0 +1,13 @@
+<aiml>
+    <category>
+        <pattern>HOW ARE YOU  </pattern>
+        <template>
+            <random>
+            <li>I am fine, what about you?</li>
+                <li>I am good</li>
+                <li>I am good. Thanks for asking</li>
+            </random>
+        </template>
+
+    </category>
+</aiml>
